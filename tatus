@@ -1,0 +1,182 @@
+[33m88f2518[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge pull request #30 from SportsDAO/development
+[33m19eb20f[m[33m ([m[1;31morigin/development[m[33m)[m add emotion part when game is over
+[33m91a12e5[m fixing
+[33m6b0cfc5[m fix bug
+[33m737f89d[m Merge pull request #9 from yeahCH/dependabot/npm_and_yarn/ssri-6.0.2
+[33me94f81a[m build(deps): bump ssri from 6.0.1 to 6.0.2
+[33mcf8ec55[m refactor: unused code
+[33m4704a02[m refactor: responsive, seo, signin/signup
+[33mb1cdafa[m Merge pull request #8 from yeahCH/dependabot/npm_and_yarn/axios-0.21.1
+[33madbea26[m build(deps): bump axios from 0.20.0 to 0.21.1
+[33mbfb2a0a[m Merge pull request #7 from yeahCH/dependabot/npm_and_yarn/ini-1.3.8
+[33ma7941aa[m build(deps): bump ini from 1.3.5 to 1.3.8
+[33mdd4039d[m fix: image update(@aika)
+[33m61036fc[m Merge pull request #6 from yeahCH/dependabot/npm_and_yarn/http-proxy-1.18.1
+[33mc1c2c8d[m build(deps): bump http-proxy from 1.18.0 to 1.18.1
+[33m5cce891[m fix: strict mode
+[33mdcd7a66[m fix: gameover logic
+[33m8a7f38b[m refactor: add spare cards
+[33mdccc5d0[m refactor: err msgs showing
+[33mbf059ae[m feat: download scores
+[33m1ee0616[m refactor: local storage
+[33m1ed0dd8[m feat: signup validation
+[33me56e529[m refactor: card size
+[33mdc1db88[m refactor: layout
+[33m9dfe66f[m feat: signup api invoke
+[33m96f2ac5[m feat: upload score init
+[33m3da2d21[m feat: add initial axios.post
+[33m2bc259c[m feat: add signup, signin
+[33me751c01[m feat: route list
+[33m0fcac94[m[33m ([m[1;31morigin/feat/api[m[33m)[m refactor: pages
+[33m9c1a413[m refactor: style
+[33mdfaf027[m[33m ([m[1;31morigin/feat/pwa[m[33m)[m feat: add service-worker.js
+[33mc3dd63c[m refactor: layout
+[33maeb84a4[m chore: logo
+[33m74e651e[m feat: add github link
+[33m7c4f781[m readme.md
+[33m95a7c0b[m feat:game over popup
+[33m0aaa218[m chore: layout
+[33mb0b5069[m feat: responsive
+[33md8c876c[m feat: card images
+[33m1672bbf[m feat: transition effect
+[33ma310546[m fix: style
+[33m27b65f2[m refactor: lint error
+[33m5fc7ba5[m save score in local
+[33m2207064[m fix: same card select error
+[33mf5fbb1d[m chore: readme.md
+[33m836d815[m Merge pull request #5 from yeahCH/refactory_logic
+[33m7ad188e[m[33m ([m[1;31morigin/refactory_logic[m[33m)[m fix: game over check
+[33m8b3e75d[m refactor: game over logic
+[33m6f8d94d[m feat: calculate score
+[33m3a14de7[m refactor: open center card
+[33m28242b7[m refactor: compare two cards
+[33m661ae97[m refactor: state of cards
+[33mbefdec1[m refactory: card_holder
+[33m35a622f[m Merge pull request #4 from yeahCH/dependabot/npm_and_yarn/elliptic-6.5.3
+[33m8327bc3[m build(deps): bump elliptic from 6.5.2 to 6.5.3
+[33m2282e13[m refactor: package.json
+[33m426929c[m refactor: readme.md
+[33m6812f9d[m add: readme
+[33m14a4cb0[m feat: add google analytics
+[33m7c3bf78[m delete: README.md
+[33me2c9979[m Merge pull request #3 from yeahCH/deploy
+[33m111797c[m Delete CNAME
+[33m44d29b9[m feat: gh-pages
+[33m00e5e17[m Create CNAME
+[33m92d810e[m fix: style
+[33m0beaa33[m fix: layout
+[33m11e650e[m fix: title
+[33mafd2c7b[m chore: calc score
+[33m82e34b9[m feat: game over notice
+[33m0508332[m feat: add initial game over logic
+[33mbf2024e[m add logger to debug
+[33m9b48e84[m chore: styles of page
+[33m9f426f0[m chore: save top cards data
+[33m1c4d5e6[m feat: init gameover logic
+[33m2d9c744[m refactor: repeat code
+[33m7cebd97[m refactor: indent
+[33m632fc41[m feat: restart game
+[33m43e2edc[m feat: restart game
+[33mf99e392[m refactor: app
+[33m0d426ff[m add: score calculation logic
+[33m283ea04[m feat: arrange 15 groups of card
+[33m8ae2e98[m feat: add blank card
+[33m7da01de[m chore: pull master
+[33ma22cbac[m feat: update css for card
+[33mb1656a9[m Merge pull request #2 from yeahCH/dependabot/npm_and_yarn/websocket-extensions-0.1.4
+[33madd2008[m build(deps): bump websocket-extensions from 0.1.3 to 0.1.4
+[33mb97dc20[m feat: initial pair game done
+[33m39a6078[m feat: add redux
+[33m4999e1a[m initial commit
+[33m0ec84d5[m Initialize project using Create React App
+[33m88f2518[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge pull request #30 from SportsDAO/development
+[33m19eb20f[m[33m ([m[1;31morigin/development[m[33m)[m add emotion part when game is over
+[33m91a12e5[m fixing
+[33m6b0cfc5[m fix bug
+[33m737f89d[m Merge pull request #9 from yeahCH/dependabot/npm_and_yarn/ssri-6.0.2
+[33me94f81a[m build(deps): bump ssri from 6.0.1 to 6.0.2
+[33mcf8ec55[m refactor: unused code
+[33m4704a02[m refactor: responsive, seo, signin/signup
+[33mb1cdafa[m Merge pull request #8 from yeahCH/dependabot/npm_and_yarn/axios-0.21.1
+[33madbea26[m build(deps): bump axios from 0.20.0 to 0.21.1
+[33mbfb2a0a[m Merge pull request #7 from yeahCH/dependabot/npm_and_yarn/ini-1.3.8
+[33ma7941aa[m build(deps): bump ini from 1.3.5 to 1.3.8
+[33mdd4039d[m fix: image update(@aika)
+[33m61036fc[m Merge pull request #6 from yeahCH/dependabot/npm_and_yarn/http-proxy-1.18.1
+[33mc1c2c8d[m build(deps): bump http-proxy from 1.18.0 to 1.18.1
+[33m5cce891[m fix: strict mode
+[33mdcd7a66[m fix: gameover logic
+[33m8a7f38b[m refactor: add spare cards
+[33mdccc5d0[m refactor: err msgs showing
+[33mbf059ae[m feat: download scores
+[33m1ee0616[m refactor: local storage
+[33m1ed0dd8[m feat: signup validation
+[33me56e529[m refactor: card size
+[33mdc1db88[m refactor: layout
+[33m9dfe66f[m feat: signup api invoke
+[33m96f2ac5[m feat: upload score init
+[33m3da2d21[m feat: add initial axios.post
+[33m2bc259c[m feat: add signup, signin
+[33me751c01[m feat: route list
+[33m0fcac94[m[33m ([m[1;31morigin/feat/api[m[33m)[m refactor: pages
+[33m9c1a413[m refactor: style
+[33mdfaf027[m[33m ([m[1;31morigin/feat/pwa[m[33m)[m feat: add service-worker.js
+[33mc3dd63c[m refactor: layout
+[33maeb84a4[m chore: logo
+[33m74e651e[m feat: add github link
+[33m7c4f781[m readme.md
+[33m95a7c0b[m feat:game over popup
+[33m0aaa218[m chore: layout
+[33mb0b5069[m feat: responsive
+[33md8c876c[m feat: card images
+[33m1672bbf[m feat: transition effect
+[33ma310546[m fix: style
+[33m27b65f2[m refactor: lint error
+[33m5fc7ba5[m save score in local
+[33m2207064[m fix: same card select error
+[33mf5fbb1d[m chore: readme.md
+[33m836d815[m Merge pull request #5 from yeahCH/refactory_logic
+[33m7ad188e[m[33m ([m[1;31morigin/refactory_logic[m[33m)[m fix: game over check
+[33m8b3e75d[m refactor: game over logic
+[33m6f8d94d[m feat: calculate score
+[33m3a14de7[m refactor: open center card
+[33m28242b7[m refactor: compare two cards
+[33m661ae97[m refactor: state of cards
+[33mbefdec1[m refactory: card_holder
+[33m35a622f[m Merge pull request #4 from yeahCH/dependabot/npm_and_yarn/elliptic-6.5.3
+[33m8327bc3[m build(deps): bump elliptic from 6.5.2 to 6.5.3
+[33m2282e13[m refactor: package.json
+[33m426929c[m refactor: readme.md
+[33m6812f9d[m add: readme
+[33m14a4cb0[m feat: add google analytics
+[33m7c3bf78[m delete: README.md
+[33me2c9979[m Merge pull request #3 from yeahCH/deploy
+[33m111797c[m Delete CNAME
+[33m44d29b9[m feat: gh-pages
+[33m00e5e17[m Create CNAME
+[33m92d810e[m fix: style
+[33m0beaa33[m fix: layout
+[33m11e650e[m fix: title
+[33mafd2c7b[m chore: calc score
+[33m82e34b9[m feat: game over notice
+[33m0508332[m feat: add initial game over logic
+[33mbf2024e[m add logger to debug
+[33m9b48e84[m chore: styles of page
+[33m9f426f0[m chore: save top cards data
+[33m1c4d5e6[m feat: init gameover logic
+[33m2d9c744[m refactor: repeat code
+[33m7cebd97[m refactor: indent
+[33m632fc41[m feat: restart game
+[33m43e2edc[m feat: restart game
+[33mf99e392[m refactor: app
+[33m0d426ff[m add: score calculation logic
+[33m283ea04[m feat: arrange 15 groups of card
+[33m8ae2e98[m feat: add blank card
+[33m7da01de[m chore: pull master
+[33ma22cbac[m feat: update css for card
+[33mb1656a9[m Merge pull request #2 from yeahCH/dependabot/npm_and_yarn/websocket-extensions-0.1.4
+[33madd2008[m build(deps): bump websocket-extensions from 0.1.3 to 0.1.4
+[33mb97dc20[m feat: initial pair game done
+[33m39a6078[m feat: add redux
+[33m4999e1a[m initial commit
+[33m0ec84d5[m Initialize project using Create React App
